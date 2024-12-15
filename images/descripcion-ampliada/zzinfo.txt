@@ -1,0 +1,4 @@
+para añadir una imagen debe llamarse igual que el icono pero añadiendo -DESC 
+en combinaciones hay hasta el 12-DESC incluido
+https://www.leagueofgraphs.com/tft/items
+https://tftactics.gg/item-builder/
